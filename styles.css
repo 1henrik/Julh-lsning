@@ -21,8 +21,9 @@ body {
 }
 
 .responsive-image {
+  margin-top: -150px;
   max-width: 100%;
-  max-height: 100vh;
+  max-height: 80vh;
   object-fit: contain;
 }
 
@@ -35,4 +36,5 @@ body {
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s;
+
 }
